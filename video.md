@@ -2890,9 +2890,9 @@ https://youtu.be/nxxzuDqJCzQ
 
 
 #### Simulate Robot Fleets in Digital Twins
-In this livestream, we’ll introduce the Mega NVIDIA Omniverse Blueprint for helping developers build, test, and optimize intelligent robot fleets using digital twins. You’ll learn what Mega is, why it matters, and how it brings a software-defined approach to real-world facilities. We’ll walk through a live example, show how to get started, and highlight real-world use cases from partners like Foxconn.
+<!-- In this livestream, we’ll introduce the Mega NVIDIA Omniverse Blueprint for helping developers build, test, and optimize intelligent robot fleets using digital twins. You’ll learn what Mega is, why it matters, and how it brings a software-defined approach to real-world facilities. We’ll walk through a live example, show how to get started, and highlight real-world use cases from partners like Foxconn.
 
-https://youtu.be/93Is26tQ07o
+https://youtu.be/93Is26tQ07o -->
 
 #### Delta’s AI-Integrated Robot and D-Bot With Omniverse (Presented by Delta Electronics) [S73977]
 
@@ -2946,9 +2946,602 @@ Learn how to train robots from scratch using simulation. In this session, Muamme
 
 https://youtu.be/_HMk7I-vSBQ
 
+#### This AI Learned Boxing…With Serious Knockout Power!
 
+📝 The paper "Control Strategies for Physically Simulated Characters Performing Two-player Competitive Sports" is available here:
+https://research.facebook.com/publications/control-strategies-for-physically-simulated-characters-performing-two-player-competitive-sports/
+
+🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:
+Aleksandr Mashrabov, Alex Haro, Andrew Melnychuk, Angelos Evripiotis, Benji Rabhan, Bryan Learn, Christian Ahlin, Eric Haddad, Eric Martel, Gordon Child, Ivo Galic, Jace O'Brien, Javier Bustamante, John Le, Jonas, Kenneth Davis, Klaus Busse, Lorin Atzberger, Lukas Biewald, Matthew Allen Fisher, Mark Oates, Michael Albrecht, Nikhil Velpanur, Owen Campbell-Moore, Owen Skarpness, Ramsey Elbasheer, Steef, Taras Bobrovytsky, Thomas Krcmar, Timothy Sum Hon Mun, Torsten Reil, Tybie Fitzhugh, Ueli Gallizzi.
+If you wish to appear here or pick up other perks, click here:   / twominutepapers  
+
+Thumbnail background design: Felícia Zsolnai-Fehér - http://felicia.hu
+
+00:00 Intro - You shall not pass!
+00:49 Does nothing - still wins!
+01:30 Boxing - but not so well
+02:13 Learning is happening
+02:39 After 250 million training steps
+03:10 Drunkards no more!
+03:29 Serious knockout power!
+04:00 It works for fencing too
+04:20 First Law of Papers
+04:43 An important lesson
+
+https://youtu.be/SsJ_AusntiU
+
+#### Introduction to Robot Simulation  Learn How to Develop, Simulate, and Deploy Scalable Robot Intelligence   GTC 25 2025   NVIDIA On-Demand NVIDIA
+<!-- Robots hold massive potential to automate and scale difficult and repetitive tasks across industries and in our lives. Programming robots to conduct these tasks safely has historically been challenging, costly, and specialized. Robotics simulation enables developers to virtually train, test, and validate robots in physics-based digital representations of the real world.
+
+In this lab, we’ll take you through the end-to-end robotics development process using Scaled Foundations’ GRID platform powered by NVIDIA Isaac Sim. Starting with a fully functional robot simulation instance with a robot, sensor, AI model, and environment, you’ll create an end-to-end, functional robot solution to perform a task and combine your robot solution with several of the latest robot AI models. Finally, you’ll see how you can take your solution from GRID and deploy on a real robot.
+Prerequisite(s):
+
+Experience with Python.
+Basic knowledge of robotic architectures.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-dlit74633/
+
+https://docs.scaledfoundations.ai/introduction -->
+
+#### Advancing the Frontier of Medical Devices with Physical AI
+
+Prerna Dogra, Senior Manager for Healthcare AI Products, NVIDIA
+
+The healthcare sector is evolving rapidly, with medical devices, treatment facilities, and operating rooms transitioning toward fully robotic systems. We'll address the vital role of physical AI — models designed to understand, interact, and navigate within this new paradigm. Delve into the comprehensive workflows across training, simulation, and runtime that underpin these technological advances. We'll explore how platforms like MONAI, Omniverse, Isaac Lab, and Holoscan are critical in developing next-generation medical devices. These tools create a robust ecosystem for innovation, empowering you to lead in the transformation of healthcare. Join us to enhance your skills and contribute to the future of medical technology, where intelligent robotic systems are the norm.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-s72948/
+
+#### An Introduction to NVIDIA Cosmos World Foundation Models
+
+Ming-Yu Liu, VP Generative AI Research, NVIDIA
+Highly Rated
+
+NVIDIA Cosmos is transforming how robots and autonomous vehicles learn, accelerating physics-aware synthetic video generation with world foundation models. Join Ming-Yu, NVIDIA’s VP of Generative AI Research, to see how Cosmos is democratizing physical AI development—giving developers open models and tools to build custom world models faster than ever.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-s72431/
+
+#### Revolutionizing Warehouse and Factory Management With NVIDIA "Mega" Blueprint for Robot Facilities
+Christian Souche, Global Next Gen Robotics Lead, Accenture
+Elias Treis, Next Gen Robotics NVIDIA Architect, Accenture
+
+In this pivotal moment for industrial innovation, we explore how NVIDIA Robotics products — Omniverse, Isaac Sim, Metropolis, Fleet Management, and Discrete Event Simulation — are transforming warehouse and factory management from pre-commissioning to full-scale operations. We'll examine the overall value proposition of these cutting-edge technologies, focusing on their financial benefits, efficiency gains, and enhanced scalability. Additionally, we'll address the urgency for clients to adopt these technical enablers in response to evolving industry demands. Real-world examples will illustrate how these solutions meet the challenges of modern industrial environments, driving operational excellence and competitive advantage.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-s73076/
+
+#### Announcing Mujoco-Warp and Newton: How Google DeepMind and NVIDIA are Supercharging Robotics Development
+Erik Frey, Lead , Google
+
+Physical Al for Humanoid Robots
+How Google DeepMind Robotics Uses Simulation to Accelerate Humanoid Robotics Training
+
+Physical AI models enable robots to autonomously perceive, interpret, reason, and interact with the physical world. Google integrates AI models into humanoid robots that execute tasks in real-world environments. To ensure effective operation in diverse and complex settings—such as various kitchen layouts—a ""simulation-first"" approach is essential.
+
+Physics plays a crucial role in robotic simulation, providing the basis for accurate virtual representations of robot behavior and interactions within realistic environments. In this session, we will introduce Newton, an open-source, extensible, GPU-accelerated physics engine built on NVIDIA Warp, designed specifically for advancing robot learning and is result of deep collaboration between NVIDIA and Google DeepMind,.
+
+Learn how Google improved its simulation performance by integrating Newton into critical parts of its humanoid simulation pipeline.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-s72709/
+
+MuJoCo Warp Alpha 版已开放 GitHub 访问，提供 Colab 示例代码及强化学习训练案例，欢迎开发者加入社区，共同塑造机器人技术的未来。
+https://github.com/google-deepmind/mujoco_warp
+
+#### Learn OpenUSD: Robotics Best Practices
+Steven Feng, Robotics Engineer, NVIDIA
+Renato Gasoto, Robotics and AI Engineer, NVIDIA
+
+In this course, we will be expanding on the concepts of assets from our previous Learn OpenUSD courses and applying them within the domain of robotics. We’ll learn about the benefits of a robot asset structure in OpenUSD and learn best practices by studying the asset structure utilized by the URDF Importer in Isaac Sim. We will gain insights on various optimizations that can be performed on a robot asset and experiment with the different techniques like mesh merging and instancing. Lastly, we will assemble the robot asset and an environment to construct a robot training scene.
+Prerequisite(s):
+
+An understanding of fundamental programming concepts in Python 3 such as functions, loops, dictionaries and arrays and Python 3 related libraries.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-dlit71288/
+
+#### Scalable Robot Autonomy Everywhere, All the Time, with Vision and AI 3D Perception
+Amir Bousani, Co-Founder and CEO, RGo Robotics
+
+Get an in-depth look at how a 3D perception solution based on vision, sensor fusion, and AI is revolutionizing autonomous mobile robots (AMRs) in real-world applications. We'll dive into how these technologies are solving critical challenges in autonomous robot navigation and site commissioning, and how they enable quick integration of advanced AI capabilities. We'll share best practices, insights, and lessons learned to help you quickly bring to market an autonomous robot based on vision and AI perception software, to streamline commissioning of new site with 3D global map. You'll also learn to leverage existing and developing AI capabilities like object recognition, natural language interaction, and large foundation models to accelerate development, enhance performance, and give your robotic solution a competitive advantage.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-s73737/
+
+#### An Introduction to Building Humanoid Robots | NVIDIA GTC 2025
+Developers are building more intelligent, responsive, and efficient humanoid robots capable of transforming industries such as manufacturing, healthcare, and retail. NVIDIA is building Isaac GR00T — a platform for developing humanoid robots.
+
+Isaac GR00T has four parts: robot foundation models for cognition and control, simulation frameworks built on NVIDIA Omniverse and Cosmos, data pipelines for generating synthetic data and environments, and finally — a supercomputer in the robot Jetson AGX Thor. This engaging session will cover the latest advancements in each of the four pillars of the platform built by NVIDIA Research and Engineering through concrete use cases and examples.
+
+Speakers:
+Jim Fan, Principal Research Scientist / Senior Research Manager, NVIDIA
+Leela Karumbunathan, Sr. Hardware Product Manager, NVIDIA
+Yan Chang, Sr. Engineering Manager, NVIDIA
+Yuke Zhu, Principal Research Scientist / Senior Research Manager, NVIDIA
+
+https://youtu.be/Oyon1QDpU6g
+
+#### Advancements in Physical AI: Startups Using OpenUSD, Robotics, and Simulation
+Bradley Rothenberg, CEO, nTop
+Daniel Yu, Co-founder and CEO, MetAI Technology
+Evan Beard, CEO and Co-Founder, Standard Bots
+Pomi Lee, Omniverse Product Marketing Manager, NVIDIA
+Thomas von Tschammer, U.S. General Manager and Co-Founder, Neural Concept
+
+Join us for a lightning talk designed for developers. Startup leaders will share their experiences using NVIDIA Omniverse, focusing on the practical applications of OpenUSD in 3D projects. Attendees will hear how startups have scaled digital twins for physical AI usecases including warehouse operations, automotive design, and 3D product configuration. This "birds of a feather" session will provide valuable insights and technical details for those looking to integrate these tools into their 3D workflows.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-s72461/
+
+#### AIRSPEED: 用于具身智能的开源通用数据生产平台
+xuan xia, Associate Researcher, Shenzhen Institute of Artificial Intelligence and Robotics for Society
+
+具身智能依赖于有效的数据采集，但面临高成本、场景受限和缺乏数据集标准等挑战。为了解决这些问题，我们推出了 AIRSPEED，一个用于具身人工智能数据生产的开源的平台。AIRSPEED 通过软硬件解耦以降低成本，支持多种设备进行多样化的数据收集，支持通过仿真平台进行合成数据生成，并自动化数据集构建。它包括三个服务：用于真实世界数据的数据采集服务、用于合成数据的数据生成服务和用于构建金字塔结构数据集的数据集构建服务。AIRSPEED 旨在提高数据生产效率和质量，从而改善具身智能模型的性能。我们的实验证实了 AIRSPEED 在提高数据生产效率方面的有效性。源代码和更多关于 AIRSPEED 的详细信息可以在这里找到：https://github.com/airs-admin/airspeed
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-s74390/
+
+
+#### AI Meets Robotics: European Startup Showcase
+Abhilash Nand Kumar, Team Lead, Perception and SLAM, NODE Robotics
+David Niedermaier, Co-Founder & CTO, AGILOX
+David Reger, Founder and CEO, NEURA Robotics
+Lorenz Wellhausen, Software CTO, RIVR
+Lars Beier, Staff Software Engineer, Wandelbots
+Naomi Betz, Sr. Account Manager for Manufacturing and Industry , NVIDIA
+Stephan Hotz, Chief Product Officer, Wandelbots
+Wolfgang Pointner, Team Lead Future Technologies, AGILOX
+
+Learn how five innovative European startups are developing robotics and automation systems accelerated by NVIDIA platforms to deliver world-class solutions. Learn how their real-world applications are using next-generation technologies at the intersection of robots, sensors, and artificial intelligence. Discover how these innovations are transforming industries by simplifying the development and utilization of autonomous systems across manufacturing, healthcare, and beyond.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-s73752/
+
+#### Advancing Automotive Factory Planning at BMW With AI-Enabled Digital Twins
+Felix Theurer, Digital Solutions Architect Virtual Factory, BMW
+Harshit Raikar, Lead for Virtual Apps and Collaboration (Omniverse), BMW Group
+Tobias Delago, Researcher, BMW
+
+Join us to explore how BMW delivers factory planning applications, built on NVIDIA Omniverse and OpenUSD, to an industrial scale, transitioning from on-premises GPUs to fully managed, high-performance cloud infrastructure, supporting hundreds of our factory planners. We’ll share how BMW developers built an integrated ecosystem and data pipeline, automating processes such as file conversion, authoring system integration, and file validity management. Additionally, we’ll showcase our suite of adapted and custom extensions developed for tasks like clash detection and scene segmentation. Finally, learn how our teams are pushing innovation with LLM-powered solutions like our intelligent assistant to seamlessly navigate complex factory environments and enhance usability.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-s71550/
+
+#### Accelerating ROS 2 Workloads With NVIDIA GPU-Powered Libraries and AI Models
+Swapnesh Wani, Senior Systems Software Engineer, NVIDIA
+
+Learn how to accelerate ROS 2 workloads using NVIDIA’s latest GPU-powered libraries for AI and robotics. This hands-on lab will explore how to leverage generative AI and GPU-accelerated ROS 2 packages to enhance robotic workloads in real time. Gain experience with optimizing ROS 2 packages for GPU acceleration, including techniques for improving performance and reducing latency in AI perception, navigation, and more. We'll also demonstrate NVIDIA Isaac's powerful AI and simulation tools, designed for seamless integration with ROS 2.
+Prerequisite(s):
+
+Experience with OpenUSD, NVIDIA Omniverse and 3D CAD software.
+Experience in Python.
+Basic knowledge of NVIDIA Isaac Sim and Isaac ROS.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-DLIT71433/
+
+#### Build Physics-Based Digital Twins for Co-Simulation (Presented by SoftServe)
+Mariusz Janiak, Solution Architect, SoftServe, Inc.
+Stefano Cristiano, Principal Engineer, Omniverse Physics, NVIDIA
+
+Learn how to build physically accurate simulations with NVIDIA Omniverse using OpenUSD and the FMI/FMU standard, a leading framework for model exchange and co-simulation across different tools. We'll explore how to synchronize the PhysX engine from the Omniverse platform with external models wrapped in FMUs, using an FMU master for seamless co-simulation. Gain actionable insights into setting up precise simulations that enhance system interoperability, performance, and integration across diverse platforms.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-s71963/
+
+#### Connecting Industrial Data to Digital Twins With Microsoft Power BI, NVIDIA Omniverse, and OpenUSD
+Andrew Dudek, Senior Software Engineer, Microsoft
+Martin Karlsson, Principle Product Manager, NVIDIA
+
+This hands-on lab guides developers through the process of creating a cloud-based IoT application using NVIDIA Omniverse Kit and Microsoft Azure. Participants will learn to develop, deploy, and integrate a containerized Omniverse Kit application with a web-based front-end, focusing on data streaming and state management in industrial scenarios.
+
+By the end of this lab, you'll be able to develop a cloud-hosted application that leverages NVIDIA Omniverse for backend processing and a web interface for real-time data visualization and interaction. This lab is ideal for software developers interested in cloud-based IoT solutions, real-time data streaming, and industrial digital twin applications.
+Prerequisite(s):
+
+Knowledge of cloud computing concepts and Microsoft Azure services.
+Familiarity with IoT, data streaming, and 3D graphics.
+Experience with Python programming, NVIDIA Omniverse and OpenUSD.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-dlit71322/
+
+#### Creating a Digital Twin of the French Railway: From Point Cloud to Operational Efficiency
+David Maurange, Consulting Director, Sopra Steria Next
+François Pontvianne, Signalisation Tools Manager, SNCF Réseau
+Yoann YVON, Head of Digital Interaction, Sopra Steria
+
+Learn how the SNCF, which operates over 27,000 kilometers of tracks, is leveraging a digital twin to enhance operational efficiency. We'll explore the real-world implementation of this innovative tool, which uses 3D and business data (point clouds, repositories, BIM models, etc.) to optimize worksite planning, secure critical spots like railway crossings, provide predictive maintenance simulations, and reconcile data repositories with the actual infrastructure (as-planned vs. as-built). Gain insights into how NVIDIA's ecosystem, including Omniverse, Isaac, Replicator, and NIMs, enables the creation of a scalable enterprise architecture. This architecture makes advanced AI, simulation, and visualization capabilities accessible to end users, integrating seamlessly into their business processes. Understand how these technologies can be applied to improve your own infrastructure management projects for better planning, safety, and maintenance.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-s71822/
+
+#### Improving Road Safety with GenAI, Metropolis, and NVIDIA Omniverse™ (Presented by Foxconn)
+Christie Lin, Director, Foxconn
+
+Delve into the transformative role of digital twin technology in automating road safety assessments and enhancing intersection design. We'll explore how digital twins integrate real-time data, predictive analytics, automation, and Gen AI to identify hazards, diagnose accident-prone areas, and implement effective safety solutions. Learn how this innovative approach is revolutionizing traffic management, reducing risks, and shaping smarter, safer urban mobility.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-s74446/
+
+#### How to Use NVIDIA Omniverse™ on Smart Factory Design: The Fii Omniverse Digital Twin Project on NVIDIA GB200 Grace™ Blackwell Superchip Production Line (Presented by Foxconn)
+Leo Guo, GM, Fii (Foxconn Industrial Internet)
+
+Digital twin evolution represents the progressive development and implementation of digital twins, beginning from simple geometric representations to comprehensive enterprise-wide systems. This evolution reflects the increasing complexity and integration of technologies such as the industrial internet of things, AI, and enterprise resource planning (ERP) systems to enhance operational efficiency, streamline production, and improve decision-making.
+
+Key Benefits:
+• Enhanced Collaboration: Real-time updates and collaborative capabilities via platforms like Omniverse empower teams globally.
+• Improved Operational Efficiency: From visualizing machine layouts to conducting full factory simulations, these phases optimize workflows and reduce downtime.
+• Scalability: A modular and centralized approach ensures that the system can grow and adapt to new challenges and requirements.
+• Informed Decision-Making: By integrating real-time data and ERP systems, the enterprise twin enables data-driven decisions that enhance productivity and profitability.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-s74429/
+
+#### From Concept to Reality: Startups Driving AI-Powered Industry Automation
+Bachir Kharraja, Chief Technology Officer, Miso Robotics
+Animesh Garg, Chief Scientific Officer, Apptronik
+Ali Agha, Founder and Chief Executive Officer, Field AI
+Kalyan Vadrevu, Product Marketing Manager, Robotics, NVIDIA
+Heidi Schubert, Director of Software and Autonomy, Cobot
+
+Join us for an insightful lightning talk featuring founders and technologists from leading robotics startups in the NVIDIA Inception program. These innovators will share how they are addressing industry challenges using NVIDIA acceleration libraries, AI models, and the Omniverse platform. Gain insights into the unique challenges faced by these entrepreneurs and discover how they are using advanced AI to serve customers across industries such as manufacturing, healthcare, retail, and food service.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-s72602/
+
+
+#### Designing and Simulating Next Generation Data Centers & AI Factories With Cadence and NVIDIA
+Kourosh Nemati, Senior Data Center Cooling and Infrastructure Engineer, NVIDIA
+Sherman Ikemoto, Sales Development Group Director, Cadence
+
+With the explosion of generative, agentic, and physical AI, the next industrial revolution has begun. Companies and countries are shifting from trillion-dollar traditional data centers to accelerated computing with a new type of data center — AI factories. Join Cadence and NVIDIA experts to learn about the role of AI factories and the challenges in designing, building, and operating these new facilities. Explore how advanced physics-based simulations, powered by Cadence Reality Digital Twin, NVIDIA Omniverse, and OpenUSD, enable data center teams to design these complex AI factories at scale with greater efficiency and optimized performance. Get briefed on how the broader data center ecosystem can support these efforts and the acceleration of AI-powered innovation for every industry and field.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-s73004/
+
+
+#### Edge Computing 101: Introduction to Smart Edge and Autonomous Robots
+Chen Su, Sr. Technical Product Marketing Manager, NVIDIA
+
+Discover the potential of NVIDIA's edge AI platform in transforming the future of smart edge and autonomous robotics. This session will provide an overview of the platform's capabilities across embedded edge, industrial edge, and enterprise edge environments. Learn about the best practices and software framework that enable AI-powered robots and intelligent vision systems from advanced sensor processing to real-time decision-making. Explore how these innovative technologies are creating generative physical AI systems and shaping industries across healthcare, retails, robotics, transportation, manufacturing and more.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-s72890/
+
+
+#### Refreshing Manufacturing Operations at Coca-Cola Consolidated With Digital Twins
+Charu Kalluri, Senior Product Manager, Sight Machine
+Jack Robenalt, Director, Customer Outcomes, Sight Machine
+Sudhir Subramanian, VP Engineering, Sight Machine
+
+Join Sight Machine experts to to explore how Coca-Cola Consolidated, the largest independent Coca-Cola bottler in the United States, is digitalizing manufacturing operations with digital twins. Learn how Coca-Cola Consolidated teams take advantage of real-time monitoring, collaboration, and physically based visualization capabilities, powered by Azure internet of things operations, NVIDIA Omniverse cloud APIs, OpenUSD, and Sight Machine’s manufacturing solutions to gain new insights into production and unlock new possibilities in operations.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-s73008/
+
+#### Reinventing Smart Manufacturing: How Foxconn Builds and Deploys an AI Workforce
+Dr. Shi Zhe, Chief Digital Officer, Foxconn
+
+Join us to explore how AI is reshaping the workforce and how Foxconn is leading the charge in the era of agentic and physical AI. Learn how our developers used NVIDIA NeMo and NVIDIA Omniverse SDKs and APIs to build an AI workforce platform that is transforming our manufacturing and operations. We'll share the steps taken, tangible results achieved and the future vision of the Foxconn AI Factory — a fully integrated AI ecosystem driving innovation and efficiency in manufacturing.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-s72841/
+
+#### Robotic Simulations With Reinforcement Learning at Scale: Harness the Power of NVIDIA Isaac Lab on AWS
+Abhishek Srivastav, Sr. Solutions Architect, Amazon
+Shaun Kirby, Principal IoT Architect, Amazon
+
+Simulation-based reinforcement learning greatly benefits the field of robotics, enabling models to learn complex tasks quickly. NVIDIA Isaac Lab offers a reinforcement learning environment to train and test robots in realistic simulated environments using physics-based rendering. We'll dive deeper into NVIDIA’s Isaac Lab, AWS Batch, and Amazon EC2 instances powered by NVIDIA GPUs, and highlight the advantages of robotic simulation on AWS. Through hands-on labs, you’ll learn distributed training for robots across multiple GPU nodes, leveraging AWS Batch to accelerate performance. Additionally, we’ll explore the crucial sim-to-real transition, sharing insights and strategies for effectively translating simulation learnings to real-world robotic applications.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-dlit71688/
+
+#### Revolutionize Pedestrian Safety: AI-Powered Crash Worthiness
+Thomas von Tschammer, U.S. General Manager and Co-Founder, Neural Concept
+
+We are excited to present groundbreaking approaches to pedestrian crash simulation, developed in collaboration with Simon Xu, Tech Fellow of Optimization and ML , and his colleagues from General Motors. This engineering project leverages deep learning models trained on NVIDIA A100 GPUs to predict impact physics in seconds, rather than days, significantly accelerating the automotive safety design process.
+By integrating AI-driven simulations, engineers can rapidly explore safety-optimized vehicle geometries, setting new benchmarks in crash modeling and predictive safety engineering. General Motors, in collaboration with our team, recognizes both the immense potential of AI and the challenges that must be addressed to fully realize its impact on automotive product design.
+A key challenge lies in seamlessly integrating AI models into existing engineering workflows, ensuring they complement decades of engineering expertise while maintaining confidence in real-world applications and consumer trust. AI must also demonstrate consistent, real-time performance across diverse scenarios, particularly in high-accuracy, physics-driven simulations.
+
+#### Software-in-the-Loop Testing for Robots With OpenUSD, Isaac Sim, and ROS
+Ayush Ghosh, Robotics Systems Engineer, NVIDIA
+Ji Yuan "Steven" Feng, Robotics Engineer, NVIDIA
+
+This lab focuses on software-in-the-loop for testing and validating AI-driven robots in a digital twin environment. Participants will learn to assemble a virtual environment using OpenUSD and NVIDIA Isaac Sim. You'll add virtual robots to the scene and simulate and validate their basic movements with ROS (Robot Operating System) commands. The lab will emphasize data aggregation, environment creation, and initial robot simulation.
+
+By the end of this lab, you'll be able to create and leverage a digital twin environment to simulate basic robot movements within it using ROS. This lab is designed for developers interested in digital twin technology and robotics simulation in industrial settings.
+
+Prerequisite(s):
+
+Experience with OpenUSD, NVIDIA Omniverse and 3D CAD software.
+Experience in Python.
+Basic knowledge of NVIDIA Isaac Sim and Isaac ROS.
+https://www.nvidia.com/en-us/on-demand/session/gtc25-dlit71326/
+
+#### The embodied end-to-end VLA model driven by synthetic big data 合成大数据驱动的具身端到端 VLA 大模型
+He Wang, CTO, Galbot
+
+The high cost and scarcity of data are significant bottlenecks for embodied intelligence. However, high-quality synthetic big data provides a cost-effective solution to enhance the generalization of embodied end-to-end models. This report highlights technological breakthroughs in Vision-Language-Action (VLA) model systems, using the end-to-end manipulation model GraspVLA and the navigation model Uni-NaVid as examples, to demonstrate the realization of their generalization capabilities.
+
+具身数据的昂贵和不足目前是具身智能的重要瓶颈，而高质量的合成大数据为具身端到端大模型的泛化提供了一个低成本方案。
+本报告以端到端操作模型 GraspVLA 和 端到端导航 Uni-NaVid 等系列工作为例，探讨视觉-语言-动作（VLA）大模型系统的技术突破及其泛化能力的实现。
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-s71942/
+
+#### Training Perception AI Models With Synthetic Data Generated From Isaac Sim
+Zoe Ryan, Solutions Architect , NVIDIA
+
+In this hands-on lab, we'll using NVIDIA Omniverse and Isaac Sim to generate synthetic data for training AI models that control robotic manipulators.
+
+By the end of the lab, we'll provide hands-on experience in developing pipelines to create synthetic datasets, training perception models, and deploying these models in simulated environments before bringing them to the real world.
+Prerequisite(s):
+
+Experience with OpenUSD, NVIDIA Omniverse and 3D CAD software.
+Experience in Python.
+Basic knowledge of NVIDIA Isaac Sim and Isaac ROS.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-dlit71431/
+
+#### Visualizing California's Infrastructure with Caltrans' State-Scale Digital Twins
+Aaron Chamberlin,  Sr. Transportation Engineer (Specialist), Caltrans
+Sean Snyders, Distinguished Engineer, Trimble, Inc.
+
+Learn how the California Department of Transportation (Caltrans) leverages Trimble's integrated solutions to enhance construction project coordination and risk management through accurate and timely data visualization. By combining design and field data, Caltrans enables survey and construction teams to quickly understand project plans, identify potential risks, and improve coordination with contractors. This approach not only reduces risks and costs, but also streamlines workflows, underscoring the importance of holistic data visualization. Additionally, we delve into Trimble's collaboration with NVIDIA to further enhance data visualization and coordination capabilities, illustrating the impact of innovative technology on infrastructure projects.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-s72968/
+
+#### Coordinating via Foundation Models for Heterogeneous Multi-Robot Search and Rescue
+Christopher Allred, Research Fellow, Utah State University
+
+Multi-agent systems can be deployed using foundation models along with NVIDIA Omniverse to facilitate search-and-rescue operations with a team of heterogeneous robots, each possessing unique capabilities. Learn how multi-agent foundation models enhance coordination, data sharing, and decision-making in complex environments. We'll show real-time simulations of diverse robot morphologies (including wheeled, legged, and airborne systems) working together in dynamic, unstructured environments to complete rescue missions efficiently.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-s71244/
+
+#### AI-Powered Art: The Influence of Robots on Creative Expression
+Catie Cuan, Entrepreneur, Engineer, and Artist, Zenie, Stanford, Exploratorium
+Andrew Zolty, Artist Known as BREAKFAST, (Independent)
+Alexander Reben, Artist, (Independent)
+Emanuel Gollob, Artist and Researcher, Creative Robotics, University of Arts Linz
+Heather Schoell, Creative Director of AI Strategy, NVIDIA
+
+While artists can work with AI as a tool, a collaborator, or a muse, when a robot is added to the mix, artists are defining what role the robot will play in their creative practice. For some, like Emanuel Gollob, his robot synchronizes with the observer’s brainwaves and helps them “do nothing” and daydream. Artist Alex Reben uses robots and AI as executors of his conceptual works, a means to an end that couldn't have been achieved without the use of this technology. Catie Cuan develops interactions with robots, by first designing the robot to move and feel in a way that complements her vision, and then the way she and the audience experience that interaction builds further on her creative voice. And BREAKFAST transforms real-time data from the natural world to tell stories through his kinetic artworks. By understanding how artists use robots, we can learn more about the cultural impact of using robots for certain experiences. We can also teach the public about robotics and AI, and we can inspire innovative applications in other fields.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-s71191/
+
+#### Learning Robotic Locomotion: From Simulation to Real World
+
+Jie Tan, Google DeepMind
+https://www.jie-tan.net/
+
+Talk Details: https://sites.google.com/modelingtalks.org/entry/learning-robotic-locomotion-from-simulation-to-real-world
+
+Abstract:
+Deep reinforcement learning holds the promise to automatically train highly performant robot controllers. Traditionally, these learning-based techniques require a huge amount of data, which is unsafe and time consuming to collect on real robots. To mitigate these problems, simulations provide a safe, fast, and scalable data collection alternative. However, controllers trained in simulated environments often underperform in real-world applications due to the "sim-to-real gap". This talk will introduce the concept of simulation in robotics, explore the causes of the sim-to-real gap, and offer a high-level overview of the evolution of sim-to-real research in robotics. I will focus on three pivotal studies that aim to bridge this gap. Additionally, I will discuss the outstanding challenges and future research direction of robotics simulation and sim-to-real transfer.
+
+Bio:
+Jie Tan is a Senior Staff Research Scientist and Tech Lead Manager in the robotics team of Google DeepMind. His research focuses on applying foundation models and deep reinforcement learning methods to robots, with interests spanning locomotion, navigation, manipulation, simulation, and sim-to-real transfer. In addition to his role at Google, Jie serves as an Adjunct Associate Professor at the Georgia Institute of Technology and teaches AI and robotics courses at Stanford University.
+
+ummary
+
+Focus: Learning Robot Locomotion from Simulation
+
+Traditional robots: fixed, restricted in factories
+
+New vision: robots interacting with people in everyday life
+
+Challenge: human environment is very unstructured and dynamic
+
+DeepMind Approach: use deep reinforcement learning to control robots
+
+Previously very successful at playing games in virtual environments (Go, Starcraft)
+
+Locomotion:
+
+Enables us to explore the Earth
+
+Many applications: healthcare, delivery, etc.
+
+Simulation:
+
+We have available many technologies to model locomotion of realistic bodies in simulation (e.g. from computer graphics community)
+
+Simulation
+
+Much faster and more scalable than real-world experiments
+
+Safe
+
+But not fully accurate (performance in simulation does not fully translate to real-world performance)
+
+This is the Sim-To-Real problem
+
+Approaches
+
+Fast simulation in GPUs
+
+Imitation learning from animals
+
+Simulation from small amounts of video
+
+Simulation for robots
+
+Physics: robot body, collision detection, contact solver, numerical integrator
+
+Sensor simulation
+
+Actuator simulation
+
+Robot control API
+
+Scene creation and management: robots, objects, humans
+
+Robot training method
+
+Trained with Deep Reinforcement Learning (PPO) <-> Physics Simulation (PyBullet)
+
+Deployed on real robot
+
+Reinforcement learning:
+
+Agent (algorithm that makes decisions)
+
+Environment (robot body, world, etc.)
+
+Agent observes environment, suggests action that affects environment, gets reward immediately or later in time, adjusts recommendations to maximize reward
+
+Formulation:
+
+Observations: joint angles, roll, pitch
+
+Actions: desired motor angles
+
+Reward: maximize movement towards a given goal, minimize energy expenditure
+
+Early termination: robot falls
+
+Policy: 2 layer neural network
+
+Learning to Walk in Minutes Using Massively Parallel Deep Reinforcement Learning, CoRL 2021
+
+Improving robot performance on reality despite Sim-To-Real gap
+
+Sim-to-Real: Learning Agile Locomotion For Quadruped Robots, Robotics: Science and Systems (RSS) 2018
+
+Challenge: policy trained on simulation doesn’t directly produce good results in reality
+
+Unmodeled dynamics (e.g. robot body softer than expected)
+
+Wrong simulation parameters (e.g. incomplete CAD file)
+
+Inaccurate contact models
+
+Communication latency
+
+Actuator dynamics
+
+Stochastic real environment (e.g. roughness of floor/carpet)
+
+Numerical accuracy
+
+Overcoming the gap
+
+Analyze each component of the system to identify the best parameters
+
+Actuator model is the most critical gap
+
+Traditional: analytical models
+
+Neural network models of actuators
+
+Domain Randomization
+
+Sample physical parameters from some distribution
+
+Train robot in simulation across all those parameters
+
+Learned policy is much more robust to different realities, even if it doesn’t have a way to measure which world/environment it is living in
+
+Actions are more conservative/robust
+
+Responses to events are more diverse
+
+Robot’s peak performance is worse
+
+But much more consistent across different scenarios
+
+Reduce Sim-to-Real gap: Automatic System Identification
+
+Simulation-Based Design of Dynamic Controllers for Humanoid Balancing, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2016
+
+Technique:
+
+Physics simulation based on initial physical parameters (not carefully tuned, so not that accurate)
+
+Controller learning:
+
+Parametrized using spline control nodes to ensure smooth transition across motions
+
+Covariance Matrix Adaptation-Evolution Strategy (CMA-ES): gradient-free optimizer
+
+Trained policy doesn’t work in reality, so the loop is closed to adjust the physics model to improve its accuracy (Automatic System Identification)
+
+Using key parameters as indicators of sim-to-real discrepancy
+
+PD gains
+
+Center of mass
+
+CMA-ES: 
+
+Given a set of parameter samples
+
+Fit a gaussian distribution
+
+Get quality of all the members, remove the low-performing ones
+
+Fit another gaussian distribution on survivors
+
+Generate more samples from new gaussian distribution
+
+Repeat until sample population reaches high quality
+
+Key lessons
+
+Converge in 2 iterations, 12s of robot data
+
+Can overfit physical parameters, which will be unphysical, will not transfer to other tasks
+
+Need to select a subset of physical parameters
+
+Learning by Imitating Animals
+
+Learning Agile Robotic Locomotion Skills by Imitating Animals, Robotics: Science and Systems (RSS), 2020
+
+Approach:
+
+Take motion capture data of animals
+
+Translate motion to robot bodies
+
+Adjust policy training to add new optimization target: minimize distance between robot and reference motion
+
+Robot learns how to walk like the animal while successfully walking given its different body
+
+Bridging the Sim-To-Real gap via Domain Adaptation
+
+Randomly sample physical parameters
+
+Take all physical parameters (>100 dim space) and map them to a low-dimensional space (10-20 dim) using an auto-encoder
+
+Put encoded description of physical parameters as input to robot’s policy
+
+Real-world runs
+
+May not know the physical parameters
+
+Use optimization to find the best choice of parameters that maximize reward
+
+Follow-on work: retune dynamically so the policy is responsive to rapid changes to physics (e.g. wind)
+
+Open Sim-To-Real problems
+
+Complex dynamics (soft objects, fluids)
+
+Realistic rendering (e.g. capturing what visual sensors will actually see)
+
+Scalable creation of diverse scenes (e.g. furniture, nature, messy room)
+
+Modeling humans and human behaviors/reactions to robot actions
+
+#### Warp: Advancing Simulation AI with Differentiable GPU Computing in Python
+Miles Macklin, Director, Warp Engineering, NVIDIA
+
+Join us for a deep dive into NVIDIA’s Warp framework and learn how it enables developers to create GPU-accelerated and differentiable simulation programs in Python. We'll cover the latest features in Warp for 3D data generation, computer-aided engineering, and robotics, and show how Warp seamlessly connects to machine learning frameworks such as PyTorch and JAX. We'll illustrate these concepts with in-depth examples, including trajectory optimization for aerial vehicles, finite-element analysis, and large-scale computational fluid dynamics. Finally, we’ll preview the Warp roadmap and how upcoming features will enable users to leverage the power of Tensor Cores for accelerated neural network inference and training.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc24-s63345/
+
+#### Accelerating End-to-End CAE Workflows: Cloud-Native and On-Premises
+John Linford, Principal Technical Product Manager, Datacenter CPU Software, NVIDIA
+
+Computer-aided engineering(CAE) is used to study behavior of mechanical systems, electrical systems, fluid dynamics, thermodynamics, and more. CAE is used by a variety of industries such as aerospace, automotive, electrical engineering, and architecture to model, simulate, and optimize the performance of technologies ranging from data centers to aircraft to handheld electronics before they are physically built.
+
+Explore NVIDIA’s new platform that accelerates the entire CAE workflow and facilitates the creation of cloud-native CAE solutions. We'll highlight the ecosystem partners we're working with for accelerating the CAE workflow. We'll introduce NVIDIA’s portfolio of technologies for CAE workflow acceleration — CUDA-X, Omniverse, Modulus, Warp, etc.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-s73002/
+
+## youtube-dl 下载帮助
+https://github.com/ytdl-org/youtube-dl
+
+youtube-dl -f best "https://youtu.be/Q3IQ0aPtqG8"
+
+## yt-dlp 下载帮助
+yt-dlp -f "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best" --merge-output-format mp4 [视频链接]
+
+https://youtu.be/TRc0z_qcze0?list=PL3jK4xNnlCVer4ITzkdhC_BM-LQa08d3s
+
+## 
 喜欢一键三连哦，关注我了解更多具身智能创作。
 
 仔细分析和阅读这篇论文，总结文章中的方法，假如有机会向作者提问，提几个你关心的问题？
 
-根据字幕文件和上述描述，生成简短的视频简介，并给视频起一个专业的标题。一定要仔细阅读上传的这个字幕文件。
+根据字幕文件和上述描述，生成专业精炼的中文视频简介，并给视频起一个专业的标题。一定要仔细阅读上传的这个字幕文件。
+根据字幕文件和上述描述以及访问阅读链接内容，生成专业精炼的中文视频简介，并给视频起一个专业的标题。一定要仔细阅读上传的这个字幕文件。
