@@ -3528,6 +3528,68 @@ Explore NVIDIA’s new platform that accelerates the entire CAE workflow and fac
 
 https://www.nvidia.com/en-us/on-demand/session/gtc25-s73002/
 
+#### An Introduction to NVIDIA Cosmos for Physical AI
+Asawaree Bhide,  Robotics Technical Marketing Engineer, NVIDIA
+Rate Now
+
+Share
+Favorite
+Add to list
+In this introductory, hands-on course, learners will explore NVIDIA Cosmos™, a platform of generative world foundation models (WFM), advanced tokenizers, guardrails, and an accelerated data processing and curation pipeline built to accelerate the development of physical AI.
+Prerequisite(s):
+
+An understanding of AI model training, fine tuning, and deep learning frameworks.
+Experience with Python programming.
+Basic experience with 3D software and workflows.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-dlit74500/
+
+#### Advancing AV Development With Sensor Simulation and Cosmos
+Gautham Sholingar, Sr. Manager, Product, NVIDIA
+Rate Now
+
+Share
+Favorite
+Add to list
+Learn how the NVIDIA Omniverse Blueprint for AV Simulation and Cosmos are enabling AV developers to enhance their simulation workflows and solve the most important problems in AV development and testing. This session will feature workflows developed by NVIDIA's AV simulation ecosystem partners for scenario creation, synthetic data generation, 3D reconstruction and closed loop simulation.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-dd40002/
+
+#### NVIDIA Cosmos World Foundation Models for Autonomous Driving Development
+Sanja Fidler, VP, AI Research, NVIDIA
+Rate Now
+
+Share
+Favorite
+Add to list
+NVIDIA Cosmos is a platform that aims to accelerate physical AI development. We'll discuss how the Cosmos World Foundation Models, when specialized to the autonomous driving (AV) domain, can enhance AV development workflows.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-s73198/
+
+#### Developing Next-Gen AVs with Physical AI-Powered World Foundation Models
+Norm Marks (Worldwide Field Ops), VP, Automotive Enterprise (Worldwide Field Ops), NVIDIA
+Nima Nejatti, Global Head of Solutions Architecture and Engineering, Automotive, NVIDIA
+Rate Now
+
+Share
+Favorite
+Add to list
+This session demonstrates how NVIDIA is leveraging our Cosmos World Model Development platform and end-to-end world models to safely develop and deploy autonomous vehicles. Learn how customers are accelerating current workloads, and adopting new technologies to curate video data, find the most valuable data assets to train complex and rare corner cases, fine-tune AV world models, and enable video generation for the most complete coverage of simulation and validation scenarios. Additionally, we showcase the scalable infrastructure needed to deliver the performance and efficiency necessary for developing safe AVs at scale.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-dd40001/
+
+#### Future-Ready Factories: The AI-First Revolution in Manufacturing (Presented by TCS)
+Laksh Parthasarathy, Global Head, Smart Mobility Group , Tata Consultancy Services
+Naresh Mehta, Global Chief Technology and Innovation Officer, Tata Consultancy Services
+Rate Now
+
+Share
+Favorite
+Add to list
+A machine halts. A defect spreads. A supply chain stalls. Traditional factories react — fixing issues after they occur. But what if your factory already knew? What if it predicted failures before they happened? If AI-driven vision caught defects early? If supply chains adapted in real time? This is not the future — it's happening now. TCS’s Design for Intelligence, powered by NVIDIA platforms — Omniverse for digital twins, Metropolis for vision AI, TAO Toolkit and NIM for scalable AI, Cosmos for generative simulations, and GR00T for AI-driven robotics in manufacturing — is enabling AI-first factories that predict, adapt, and optimize in real time. The result? Resilient supply chains, zero-defect quality, and intelligent automation at scale. See how future-ready factories are shifting from reactive to truly intelligent — because in manufacturing’s next era, you lead or fall behind.
+
+https://www.nvidia.com/en-us/on-demand/session/gtc25-s74608/
+
 ## youtube-dl 下载帮助
 https://github.com/ytdl-org/youtube-dl
 
